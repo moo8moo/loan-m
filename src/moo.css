@@ -1,0 +1,46 @@
+.App{
+/* height: ; */
+
+    /* background-color: rgba(42, 42, 42, 0.986) ; */
+}
+*{
+    margin: 0%;
+}
+.paner{
+    background-color: green;
+    margin: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    box-shadow: 0px 0px 10px 6px ;
+}
+.tl{
+    color: aliceblue;
+    /* color: #320082; */
+}
+.r{
+    background-color: rgb(7, 104, 7);
+}
+.r:hover{
+background-color: rgb(38, 138, 15);
+transition: 300ms;
+cursor: pointer;
+}
+.hide{
+    opacity: 0;
+}
+.hight_10{
+
+scale: 1 0.4 ;
+}
+.red{
+    color: red;
+}
+.blue{
+color: rgb(0, 251, 255);
+}
+.classname{
+    display: inline-block;
+    /* gap: 50px; */
+}
