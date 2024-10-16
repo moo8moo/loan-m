@@ -85,7 +85,7 @@ function Iner_r({ children, name, icon, style ,classname}) {
 }
 function Right() {
 
-    let arr=[{name:'hamada' ,key:1 ,c:<img src="../3d.png" alt="3D Image" width={"50px"} /> },{name:'tdo' ,icon:'fas fa-leaf red',key:2},{name:'koko' ,icon:'far fa-heart blue',key:3,c:<img src='/xo.png' alt="3D Image" width={'50px'} ></img>},{name:'ddod',class:'classname',key:4}];
+    let arr=[{name:'hamadaبابلا' ,key:1 ,c:<img src="https://www.linkedin.com/in/moo-noo-618500325/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BEgtIKeOUQHOa4hfGypx3eQ%3D%3D" alt="3D Image" width={"50px"} /> },{name:'tdo' ,icon:'fas fa-leaf red',key:2},{name:'koko' ,icon:'far fa-heart blue',key:3,c:<img src='/xo.png' alt="3D Image" width={'50px'} ></img>},{name:'ddod',class:'classname',key:4}];
  
 let e= arr.map(function(el){
     
